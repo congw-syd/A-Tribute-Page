@@ -1,0 +1,38 @@
+html{
+  font-family: 'Satisfy', cursive;
+  color: #560000;
+}
+body{
+  background-image: linear-gradient(to top left, #ff8a00,#da1b60);
+}
+
+#title{
+  text-align: center;
+  justify-content: center;
+  box-shadow: 0 8px 6px -6px #560000;
+}
+#img-div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#image{
+  max-width:100%;
+  display:block;
+  height:auto;
+  width: auto;
+  box-shadow:  0 0 10px #560000;
+}
+#tribute-info{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section{
+  max-width:65vh;
+  display:block;
+  height:auto;
+  width: auto;
+}
+
